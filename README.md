@@ -163,11 +163,11 @@ Arayüzdeki tek bir metin, buton etiketi veya görsel bile kodda statik (hardcod
 
 ---
 
-## İlgili Projeler
+## Diğer Çalışmalar
 
 | Proje | Açıklama | Tür |
 |---|---|---|
-| **[WhatsApp AI Agent Platformu](../whatsapp-agent-casestudy)** | E-ticaret için multi-agent AI müşteri hizmeti ve HITL | Mimari Case Study |
+| **[WhatsApp AI Agent Platformu](https://github.com/chela98/whatsapp-ai-agent-casestudy)** | E-ticaret için multi-agent AI müşteri hizmeti ve HITL | Mimari Case Study |
 | **[MCP Server — Mikro ERP](../MikroFlyErp-MCPSERVER)** | Mikro ERP veritabanını yapay zekaya bağlayan MCP sunucusu | Açık Kaynak |
 
 ---
